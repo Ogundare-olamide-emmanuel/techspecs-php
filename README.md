@@ -192,5 +192,6 @@ $response = $techSpecs->categories('pretty');
 // print the list of all categories
 print($response);
 //ok
+print($response);
 ```
 
